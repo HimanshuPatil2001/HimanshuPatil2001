@@ -4,12 +4,29 @@
 ### `[ System Architect • Full-Stack Engineer • AI/ML Explorer ]`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%26+System+Architect;Fueled+by+Night+Hours%2C+Logic%2C+and+Code;Building+Intelligent+AI+Agents+%26+Computer+Vision;Gamer+%7C+Anime+Enthusiast+%7C+First-Principles+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%26+System+Architect;Fueled+by+Night+Hours%2C+Logic%2C+and+Code;Building+Intelligent+AI+Agents+%26+Computer+Vision;Gamer+%7C+Anime+Enthusiast+%7C+First-Principles+Thinker" alt="Typing SVG" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Live_App-japanese.himanshupatil.in-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://japanese.himanshupatil.in/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshipatikl100@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-HimanshuPatil2001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HimanshuPatil2001)
+<!-- Featured Hero GIF: Night Chill / Late Night Coding Focus -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="460" alt="Night Chill Coding" style="border-radius: 12px;" />
+</p>
+
+<!-- Animated 3D Social Media Badges -->
+<p align="center">
+  <a href="https://github.com/HimanshuPatil2001"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="44" alt="GitHub" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="44" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:priyanshipatikl100@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="44" alt="Email" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://japanese.himanshupatil.in/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="44" alt="Live Demo" /></a>
+</p>
+
+<p align="center">
+  <a href="https://japanese.himanshupatil.in/"><img src="https://img.shields.io/badge/Live_App-japanese.himanshupatil.in-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:priyanshipatikl100@gmail.com"><img src="https://img.shields.io/badge/Email-priyanshipatikl100@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -27,6 +44,14 @@
 ---
 
 ### ⚔️ `// 02. WEAPONS OF CHOICE (TECH ARSENAL)`
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="52" alt="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="52" alt="React" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="52" alt="Git" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="52" alt="C#" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="52" alt="JavaScript" />
+</p>
 
 ```
 ┌─────────────────┬──────────────────────────────────────────────────────────────────┐
@@ -116,6 +141,10 @@
 [Side Quests] = Anime, Competitive Gaming, Custom AI Agents
 [Status]      = Coding into the late night 🌙
 ```
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216654124-2433fb55-4955-421e-9191-9cad876f08cf.gif" width="130" alt="Cute Dev Sticker" />
+</p>
 
 ---
 
